@@ -1,0 +1,24 @@
+#content{
+    text-align: center;
+    padding-top: 25%;
+}
+body{
+    background-image: url(bac.jpg);
+    background-size: cover;
+    background-position: center;
+}
+h1,h3{
+    color: antiquewhite;
+}
+hr{
+    background-color: white;
+    height: 1px;
+    width: 500px;
+}
+html{
+    height: 100%;
+}
+h1{
+    font-weight: 500;
+    text-shadow: 1px 1px 2px rgb(77, 25, 25), 0 0 25px rgb(77, 25, 25), 0 0 5px rgb(77, 25, 25);
+}
